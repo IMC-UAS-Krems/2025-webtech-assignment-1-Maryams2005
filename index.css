@@ -1,0 +1,6 @@
+body { font-family: Arial; margin: 0; background: #c6bebe; }
+header, footer { background: #1d1c1c; color: rgb(132, 116, 116); text-align: center; padding: 1em; }
+nav a { color: rgb(117, 109, 109); margin: 0 10px; text-decoration: none; }
+nav a:hover { text-decoration: underline; }
+main { padding: 20px; }
+footer { margin-top: 20px; }

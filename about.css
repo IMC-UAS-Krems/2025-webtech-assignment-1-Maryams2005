@@ -1,0 +1,5 @@
+body { font-family: Verdana; background: #95886c; margin: 0; }
+header, footer { background: #4e4747; color: rgb(100, 89, 89); text-align: center; padding: 1em; }
+nav a { color: rgb(194, 180, 180); margin: 0 20px; text-decoration: none; }
+article { padding: 30px; }
+ul { list-style: square; }

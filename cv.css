@@ -1,0 +1,5 @@
+body { font-family: Helvetica; margin: 0; background: #9ea0a1; }
+header, footer { background: #555454; color: #837a7a; text-align: center; padding: 1em; }
+nav a { color: rgb(164, 159, 159); margin: 0 20px; text-decoration: none; }
+section { padding: 30px; }
+ul { line-height: 1.6; }
